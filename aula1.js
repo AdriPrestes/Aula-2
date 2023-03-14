@@ -1,4 +1,4 @@
-var nome = "Thiago"; //string
+var nome = "Adriane"; //string
 var idade = 23; //number - integer
 var peso = 45.7 // number - float
 var acordado = true; // boolean
